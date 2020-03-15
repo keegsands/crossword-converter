@@ -1,0 +1,20 @@
+{
+  "name": "crossword-converter",
+  "version": "0.1.0",
+  "description": "A simple Node application for converting a JSON formatted crossword puzzle into a different format.",
+  "main": "crossword-converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Keegan Sands",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keegsands/crossword-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keegsands/crossword-converter/issues"
+  },
+  "homepage": "https://github.com/keegsands/crossword-converter"
+}
