@@ -1,0 +1,2567 @@
+{
+    "data": {
+        "band": "xwrddailycom",
+        "clues": [
+            {
+                "answer": "rest",
+                "asset": null,
+                "clueNo": 1,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "1,2,3,4"
+                },
+                "text": "Part of R & R",
+                "word": null
+            },
+            {
+                "answer": "omega",
+                "asset": null,
+                "clueNo": 5,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "6,7,8,9,10"
+                },
+                "text": "Socrates' last letter",
+                "word": null
+            },
+            {
+                "answer": "blob",
+                "asset": null,
+                "clueNo": 10,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "12,13,14,15"
+                },
+                "text": "Gooey lump",
+                "word": null
+            },
+            {
+                "answer": "orly",
+                "asset": null,
+                "clueNo": 14,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "16,17,18,19"
+                },
+                "text": "Airport in Paris",
+                "word": null
+            },
+            {
+                "answer": "regal",
+                "asset": null,
+                "clueNo": 15,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "21,22,23,24,25"
+                },
+                "text": "Fit for a king",
+                "word": null
+            },
+            {
+                "answer": "line",
+                "asset": null,
+                "clueNo": 16,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "27,28,29,30"
+                },
+                "text": "Out of __; inappropriate",
+                "word": null
+            },
+            {
+                "answer": "ages",
+                "asset": null,
+                "clueNo": 17,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "31,32,33,34"
+                },
+                "text": "Grows old",
+                "word": null
+            },
+            {
+                "answer": "negligence",
+                "asset": null,
+                "clueNo": 18,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "36,37,38,39,40,41,42,43,44,45"
+                },
+                "text": "Lack of attention to one's duties",
+                "word": null
+            },
+            {
+                "answer": "don",
+                "asset": null,
+                "clueNo": 20,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "46,47,48"
+                },
+                "text": "Knotts or Rickles",
+                "word": null
+            },
+            {
+                "answer": "mets",
+                "asset": null,
+                "clueNo": 21,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "50,51,52,53"
+                },
+                "text": "National League team",
+                "word": null
+            },
+            {
+                "answer": "lakes",
+                "asset": null,
+                "clueNo": 22,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "56,57,58,59,60"
+                },
+                "text": "Superior & Geneva",
+                "word": null
+            },
+            {
+                "answer": "doors",
+                "asset": null,
+                "clueNo": 23,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "63,64,65,66,67"
+                },
+                "text": "Entryways",
+                "word": null
+            },
+            {
+                "answer": "tic",
+                "asset": null,
+                "clueNo": 25,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "70,71,72"
+                },
+                "text": "Slight twitch",
+                "word": null
+            },
+            {
+                "answer": "creamy",
+                "asset": null,
+                "clueNo": 26,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "76,77,78,79,80,81"
+                },
+                "text": "Peanut butter buyer's choice",
+                "word": null
+            },
+            {
+                "answer": "gothic",
+                "asset": null,
+                "clueNo": 28,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "84,85,86,87,88,89"
+                },
+                "text": "Architectural style",
+                "word": null
+            },
+            {
+                "answer": "larks",
+                "asset": null,
+                "clueNo": 31,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "91,92,93,94,95"
+                },
+                "text": "Birds that sing in flight",
+                "word": null
+            },
+            {
+                "answer": "blitz",
+                "asset": null,
+                "clueNo": 32,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "97,98,99,100,101"
+                },
+                "text": "Military air raid",
+                "word": null
+            },
+            {
+                "answer": "nhl",
+                "asset": null,
+                "clueNo": 34,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "103,104,105"
+                },
+                "text": "Org. for Kings & Senators",
+                "word": null
+            },
+            {
+                "answer": "aces",
+                "asset": null,
+                "clueNo": 36,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "106,107,108,109"
+                },
+                "text": "Big clubs",
+                "word": null
+            },
+            {
+                "answer": "rouge",
+                "asset": null,
+                "clueNo": 37,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "111,112,113,114,115"
+                },
+                "text": "Baton __, LA",
+                "word": null
+            },
+            {
+                "answer": "thee",
+                "asset": null,
+                "clueNo": 38,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "117,118,119,120"
+                },
+                "text": "\"My Country, 'Tis of __\"",
+                "word": null
+            },
+            {
+                "answer": "yes",
+                "asset": null,
+                "clueNo": 39,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "121,122,123"
+                },
+                "text": "\"Oui!\"",
+                "word": null
+            },
+            {
+                "answer": "pangs",
+                "asset": null,
+                "clueNo": 40,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "125,126,127,128,129"
+                },
+                "text": "Hunger pains",
+                "word": null
+            },
+            {
+                "answer": "poise",
+                "asset": null,
+                "clueNo": 41,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "131,132,133,134,135"
+                },
+                "text": "Self-confidence",
+                "word": null
+            },
+            {
+                "answer": "starry",
+                "asset": null,
+                "clueNo": 42,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "137,138,139,140,141,142"
+                },
+                "text": "Like a clear night sky",
+                "word": null
+            },
+            {
+                "answer": "doubts",
+                "asset": null,
+                "clueNo": 44,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "145,146,147,148,149,150"
+                },
+                "text": "Misgivings",
+                "word": null
+            },
+            {
+                "answer": "mae",
+                "asset": null,
+                "clueNo": 45,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "154,155,156"
+                },
+                "text": "Actress West",
+                "word": null
+            },
+            {
+                "answer": "capri",
+                "asset": null,
+                "clueNo": 46,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "159,160,161,162,163"
+                },
+                "text": "Isle of __; Italian resort",
+                "word": null
+            },
+            {
+                "answer": "aspen",
+                "asset": null,
+                "clueNo": 47,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "166,167,168,169,170"
+                },
+                "text": "Quaking tree",
+                "word": null
+            },
+            {
+                "answer": "wane",
+                "asset": null,
+                "clueNo": 50,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "173,174,175,176"
+                },
+                "text": "Dwindle",
+                "word": null
+            },
+            {
+                "answer": "tut",
+                "asset": null,
+                "clueNo": 51,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "178,179,180"
+                },
+                "text": "Egypt's boy king",
+                "word": null
+            },
+            {
+                "answer": "blanketing",
+                "asset": null,
+                "clueNo": 54,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "181,182,183,184,185,186,187,188,189,190"
+                },
+                "text": "Covering completely",
+                "word": null
+            },
+            {
+                "answer": "wire",
+                "asset": null,
+                "clueNo": 57,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "192,193,194,195"
+                },
+                "text": "Metal thread",
+                "word": null
+            },
+            {
+                "answer": "card",
+                "asset": null,
+                "clueNo": 58,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "196,197,198,199"
+                },
+                "text": "Jack or joker",
+                "word": null
+            },
+            {
+                "answer": "dafoe",
+                "asset": null,
+                "clueNo": 59,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "201,202,203,204,205"
+                },
+                "text": "Actor Willem",
+                "word": null
+            },
+            {
+                "answer": "hogs",
+                "asset": null,
+                "clueNo": 60,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "207,208,209,210"
+                },
+                "text": "Swine",
+                "word": null
+            },
+            {
+                "answer": "dyes",
+                "asset": null,
+                "clueNo": 61,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "211,212,213,214"
+                },
+                "text": "Prepares Easter eggs",
+                "word": null
+            },
+            {
+                "answer": "sneer",
+                "asset": null,
+                "clueNo": 62,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "216,217,218,219,220"
+                },
+                "text": "Look of contempt",
+                "word": null
+            },
+            {
+                "answer": "ones",
+                "asset": null,
+                "clueNo": 63,
+                "clueType": "across",
+                "shape": {
+                    "type": "none",
+                    "value": "222,223,224,225"
+                },
+                "text": "Individuals",
+                "word": null
+            },
+            {
+                "answer": "road",
+                "asset": null,
+                "clueNo": 1,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "1,16,31,46"
+                },
+                "text": "On the __; traveling",
+                "word": null
+            },
+            {
+                "answer": "ergo",
+                "asset": null,
+                "clueNo": 2,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "2,17,32,47"
+                },
+                "text": "Thus",
+                "word": null
+            },
+            {
+                "answer": "slenderest",
+                "asset": null,
+                "clueNo": 3,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "3,18,33,48,63,78,93,108,123,138"
+                },
+                "text": "Thinnest",
+                "word": null
+            },
+            {
+                "answer": "tys",
+                "asset": null,
+                "clueNo": 4,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "4,19,34"
+                },
+                "text": "Cobb & Burrell",
+                "word": null
+            },
+            {
+                "answer": "ornery",
+                "asset": null,
+                "clueNo": 5,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "6,21,36,51,66,81"
+                },
+                "text": "Cross",
+                "word": null
+            },
+            {
+                "answer": "meets",
+                "asset": null,
+                "clueNo": 6,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "7,22,37,52,67"
+                },
+                "text": "Encounters",
+                "word": null
+            },
+            {
+                "answer": "eggs",
+                "asset": null,
+                "clueNo": 7,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "8,23,38,53"
+                },
+                "text": "Breakfast order",
+                "word": null
+            },
+            {
+                "answer": "gal",
+                "asset": null,
+                "clueNo": 8,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "9,24,39"
+                },
+                "text": "\"My __ Sal\"",
+                "word": null
+            },
+            {
+                "answer": "ali",
+                "asset": null,
+                "clueNo": 9,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "10,25,40"
+                },
+                "text": "MacGraw or Larter",
+                "word": null
+            },
+            {
+                "answer": "bleach",
+                "asset": null,
+                "clueNo": 10,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "12,27,42,57,72,87"
+                },
+                "text": "Whitener",
+                "word": null
+            },
+            {
+                "answer": "link",
+                "asset": null,
+                "clueNo": 11,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "13,28,43,58"
+                },
+                "text": "Chain piece",
+                "word": null
+            },
+            {
+                "answer": "once",
+                "asset": null,
+                "clueNo": 12,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "14,29,44,59"
+                },
+                "text": "Back in the day",
+                "word": null
+            },
+            {
+                "answer": "bees",
+                "asset": null,
+                "clueNo": 13,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "15,30,45,60"
+                },
+                "text": "Spelling contests",
+                "word": null
+            },
+            {
+                "answer": "glitz",
+                "asset": null,
+                "clueNo": 19,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "41,56,71,86,101"
+                },
+                "text": "Flashiness",
+                "word": null
+            },
+            {
+                "answer": "moms",
+                "asset": null,
+                "clueNo": 21,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "50,65,80,95"
+                },
+                "text": "Many PTA members",
+                "word": null
+            },
+            {
+                "answer": "oaks",
+                "asset": null,
+                "clueNo": 24,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "64,79,94,109"
+                },
+                "text": "Thousand __, CA",
+                "word": null
+            },
+            {
+                "answer": "tote",
+                "asset": null,
+                "clueNo": 25,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "70,85,100,115"
+                },
+                "text": "Carry",
+                "word": null
+            },
+            {
+                "answer": "clay",
+                "asset": null,
+                "clueNo": 26,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "76,91,106,121"
+                },
+                "text": "Potter's material",
+                "word": null
+            },
+            {
+                "answer": "races",
+                "asset": null,
+                "clueNo": 27,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "77,92,107,122,137"
+                },
+                "text": "Marathons",
+                "word": null
+            },
+            {
+                "answer": "gigs",
+                "asset": null,
+                "clueNo": 28,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "84,99,114,129"
+                },
+                "text": "Musician's bookings",
+                "word": null
+            },
+            {
+                "answer": "inhibition",
+                "asset": null,
+                "clueNo": 29,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "88,103,118,133,148,163,178,193,208,223"
+                },
+                "text": "Personal fear",
+                "word": null
+            },
+            {
+                "answer": "chest",
+                "asset": null,
+                "clueNo": 30,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "89,104,119,134,149"
+                },
+                "text": "Bosom",
+                "word": null
+            },
+            {
+                "answer": "bony",
+                "asset": null,
+                "clueNo": 32,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "97,112,127,142"
+                },
+                "text": "Emaciated",
+                "word": null
+            },
+            {
+                "answer": "lug",
+                "asset": null,
+                "clueNo": 33,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "98,113,128"
+                },
+                "text": "Drag something heavy",
+                "word": null
+            },
+            {
+                "answer": "lees",
+                "asset": null,
+                "clueNo": 35,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "105,120,135,150"
+                },
+                "text": "Marvin & Meriwether",
+                "word": null
+            },
+            {
+                "answer": "rare",
+                "asset": null,
+                "clueNo": 37,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "111,126,141,156"
+                },
+                "text": "Seldom seen",
+                "word": null
+            },
+            {
+                "answer": "tour",
+                "asset": null,
+                "clueNo": 38,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "117,132,147,162"
+                },
+                "text": "Sightseeing trip",
+                "word": null
+            },
+            {
+                "answer": "prank",
+                "asset": null,
+                "clueNo": 40,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "125,140,155,170,185"
+                },
+                "text": "April 1st antic",
+                "word": null
+            },
+            {
+                "answer": "pope",
+                "asset": null,
+                "clueNo": 41,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "131,146,161,176"
+                },
+                "text": "Clement X or Pius XI",
+                "word": null
+            },
+            {
+                "answer": "amends",
+                "asset": null,
+                "clueNo": 43,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "139,154,169,184,199,214"
+                },
+                "text": "Make __; show remorse",
+                "word": null
+            },
+            {
+                "answer": "danger",
+                "asset": null,
+                "clueNo": 44,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "145,160,175,190,205,220"
+                },
+                "text": "Hazard",
+                "word": null
+            },
+            {
+                "answer": "canoe",
+                "asset": null,
+                "clueNo": 46,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "159,174,189,204,219"
+                },
+                "text": "Narrow boat",
+                "word": null
+            },
+            {
+                "answer": "abcd",
+                "asset": null,
+                "clueNo": 47,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "166,181,196,211"
+                },
+                "text": "Alphabet openers",
+                "word": null
+            },
+            {
+                "answer": "slay",
+                "asset": null,
+                "clueNo": 48,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "167,182,197,212"
+                },
+                "text": "Kill",
+                "word": null
+            },
+            {
+                "answer": "pare",
+                "asset": null,
+                "clueNo": 49,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "168,183,198,213"
+                },
+                "text": "Remove apple skins",
+                "word": null
+            },
+            {
+                "answer": "wife",
+                "asset": null,
+                "clueNo": 50,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "173,188,203,218"
+                },
+                "text": "Mrs.",
+                "word": null
+            },
+            {
+                "answer": "urge",
+                "asset": null,
+                "clueNo": 52,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "179,194,209,224"
+                },
+                "text": "Strong desire",
+                "word": null
+            },
+            {
+                "answer": "tess",
+                "asset": null,
+                "clueNo": 53,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "180,195,210,225"
+                },
+                "text": "Actress Harper",
+                "word": null
+            },
+            {
+                "answer": "eds",
+                "asset": null,
+                "clueNo": 55,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "186,201,216"
+                },
+                "text": "Asner & Harris",
+                "word": null
+            },
+            {
+                "answer": "tan",
+                "asset": null,
+                "clueNo": 56,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "187,202,217"
+                },
+                "text": "Fawn's color",
+                "word": null
+            },
+            {
+                "answer": "who",
+                "asset": null,
+                "clueNo": 57,
+                "clueType": "down",
+                "shape": {
+                    "type": "none",
+                    "value": "192,207,222"
+                },
+                "text": "\"__ goes there?\"; sentry's query",
+                "word": null
+            }
+        ],
+        "date": "03/12/2020",
+        "gCells": [
+            {
+                "cellChar": "R",
+                "cellNumber": "1",
+                "cellType": "square",
+                "id": 1,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "2",
+                "cellType": "square",
+                "id": 2,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "3",
+                "cellType": "square",
+                "id": 3,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "4",
+                "cellType": "square",
+                "id": 4,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 5,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "5",
+                "cellType": "square",
+                "id": 6,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "M",
+                "cellNumber": "6",
+                "cellType": "square",
+                "id": 7,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "7",
+                "cellType": "square",
+                "id": 8,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "8",
+                "cellType": "square",
+                "id": 9,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "9",
+                "cellType": "square",
+                "id": 10,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 11,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "B",
+                "cellNumber": "10",
+                "cellType": "square",
+                "id": 12,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "11",
+                "cellType": "square",
+                "id": 13,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "12",
+                "cellType": "square",
+                "id": 14,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "B",
+                "cellNumber": "13",
+                "cellType": "square",
+                "id": 15,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "14",
+                "cellType": "square",
+                "id": 16,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 17,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 18,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "Y",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 19,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 20,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "15",
+                "cellType": "square",
+                "id": 21,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 22,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 23,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 24,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 25,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 26,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "16",
+                "cellType": "square",
+                "id": 27,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 28,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 29,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 30,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "17",
+                "cellType": "square",
+                "id": 31,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 32,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 33,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 34,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 35,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "18",
+                "cellType": "square",
+                "id": 36,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 37,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 38,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 39,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 40,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "19",
+                "cellType": "square",
+                "id": 41,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 42,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 43,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 44,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 45,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "D",
+                "cellNumber": "20",
+                "cellType": "square",
+                "id": 46,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 47,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 48,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 49,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "M",
+                "cellNumber": "21",
+                "cellType": "square",
+                "id": 50,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 51,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 52,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 53,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 54,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 55,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "22",
+                "cellType": "square",
+                "id": 56,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 57,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "K",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 58,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 59,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 60,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 61,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 62,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "D",
+                "cellNumber": "23",
+                "cellType": "square",
+                "id": 63,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "24",
+                "cellType": "square",
+                "id": 64,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 65,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 66,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 67,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 68,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 69,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "25",
+                "cellType": "square",
+                "id": 70,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 71,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 72,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 73,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 74,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 75,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "26",
+                "cellType": "square",
+                "id": 76,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "27",
+                "cellType": "square",
+                "id": 77,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 78,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 79,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "M",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 80,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "Y",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 81,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 82,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 83,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "28",
+                "cellType": "square",
+                "id": 84,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 85,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 86,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "H",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 87,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "29",
+                "cellType": "square",
+                "id": 88,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "30",
+                "cellType": "square",
+                "id": 89,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 90,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "31",
+                "cellType": "square",
+                "id": 91,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 92,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 93,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "K",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 94,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 95,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 96,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "B",
+                "cellNumber": "32",
+                "cellType": "square",
+                "id": 97,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "33",
+                "cellType": "square",
+                "id": 98,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 99,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 100,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "Z",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 101,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 102,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "34",
+                "cellType": "square",
+                "id": 103,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "H",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 104,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "35",
+                "cellType": "square",
+                "id": 105,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "36",
+                "cellType": "square",
+                "id": 106,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 107,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 108,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 109,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 110,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "37",
+                "cellType": "square",
+                "id": 111,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 112,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "U",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 113,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 114,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 115,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 116,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "38",
+                "cellType": "square",
+                "id": 117,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "H",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 118,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 119,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 120,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "Y",
+                "cellNumber": "39",
+                "cellType": "square",
+                "id": 121,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 122,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 123,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 124,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "P",
+                "cellNumber": "40",
+                "cellType": "square",
+                "id": 125,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 126,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 127,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 128,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 129,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 130,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "P",
+                "cellNumber": "41",
+                "cellType": "square",
+                "id": 131,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 132,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 133,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 134,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 135,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 136,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "42",
+                "cellType": "square",
+                "id": 137,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 138,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "43",
+                "cellType": "square",
+                "id": 139,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 140,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 141,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "Y",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 142,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 143,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 144,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "D",
+                "cellNumber": "44",
+                "cellType": "square",
+                "id": 145,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 146,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "U",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 147,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "B",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 148,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 149,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 150,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 151,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 152,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 153,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "M",
+                "cellNumber": "45",
+                "cellType": "square",
+                "id": 154,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 155,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 156,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 157,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 158,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "46",
+                "cellType": "square",
+                "id": 159,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 160,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "P",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 161,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 162,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 163,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 164,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 165,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "47",
+                "cellType": "square",
+                "id": 166,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "48",
+                "cellType": "square",
+                "id": 167,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "P",
+                "cellNumber": "49",
+                "cellType": "square",
+                "id": 168,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 169,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 170,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 171,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 172,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "W",
+                "cellNumber": "50",
+                "cellType": "square",
+                "id": 173,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 174,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 175,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 176,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 177,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "51",
+                "cellType": "square",
+                "id": 178,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "U",
+                "cellNumber": "52",
+                "cellType": "square",
+                "id": 179,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "53",
+                "cellType": "square",
+                "id": 180,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "B",
+                "cellNumber": "54",
+                "cellType": "square",
+                "id": 181,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "L",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 182,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 183,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 184,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "K",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 185,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "55",
+                "cellType": "square",
+                "id": 186,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "T",
+                "cellNumber": "56",
+                "cellType": "square",
+                "id": 187,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 188,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 189,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 190,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 191,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "W",
+                "cellNumber": "57",
+                "cellType": "square",
+                "id": 192,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "I",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 193,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 194,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 195,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "C",
+                "cellNumber": "58",
+                "cellType": "square",
+                "id": 196,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 197,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 198,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "D",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 199,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 200,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "D",
+                "cellNumber": "59",
+                "cellType": "square",
+                "id": 201,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "A",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 202,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "F",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 203,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 204,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 205,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 206,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "H",
+                "cellNumber": "60",
+                "cellType": "square",
+                "id": 207,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 208,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "G",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 209,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 210,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "D",
+                "cellNumber": "61",
+                "cellType": "square",
+                "id": 211,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "Y",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 212,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 213,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 214,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 215,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "62",
+                "cellType": "square",
+                "id": 216,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 217,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 218,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 219,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "R",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 220,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "",
+                "cellNumber": "",
+                "cellType": "disable",
+                "id": 221,
+                "xchar": "N"
+            },
+            {
+                "cellChar": "O",
+                "cellNumber": "63",
+                "cellType": "square",
+                "id": 222,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "N",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 223,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "E",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 224,
+                "xchar": "Y"
+            },
+            {
+                "cellChar": "S",
+                "cellNumber": "",
+                "cellType": "square",
+                "id": 225,
+                "xchar": "Y"
+            }
+        ],
+        "gridCol": 15,
+        "gridRow": 15,
+        "nameSpace": null,
+        "sourceFile": "21b68fb8-d872-49fe-9802-ac489a2fb2f5|1.0",
+        "type": ""
+    },
+    "metaData": {
+        "author": "Jacqueline E. Mathews",
+        "cdata": [],
+        "contentId": "c77b6145-271e-4f2e-b26d-8213bd4b348d",
+        "description": "",
+        "displayAds": "N",
+        "editor": "",
+        "instructionPrimary": "",
+        "instructionSecondary": "\u00a9Tribune Content Agency, LLC",
+        "playInstruction": "<div><span style=\"font-size: 24px;\">How to Play</span></div><div><br></div><ol><li>You may need to click once in the crossword grid to activate the puzzle (tap if it is a touch device).</li><li>Complete the crossword by filling in a word that fits each clue.</li><li>In the highlighted spaces that show the word you\u2019re working on (Across or Down), type letters to form the answer to the clue. &nbsp;The answer can be one or many words.</li><li>To change an answer, just type over it. &nbsp;You can also use your back-space/delete key to make corrections.</li><li>To erase an answer, use the Spacebar (desktop only), Backspace or Delete key.</li><li>The darker highlighted square shows where the next letter you type will go. The Across and Down clues shown next to the grid correspond with that square.</li><li>You can move to any square in the puzzle by clicking on it (tap if it is a touch device).</li><li>You can switch from Across to Down by pressing the down arrow on physical keyboards, or pressing on the space bar (if set in settings), or clicking/tapping on the clue.</li><li>You can switch from Down to Across by pressing the right arrow on physical keyboards, by pressing on the space bar&nbsp;(if set in settings), or by clicking/tapping on the clue.</li><li>You can move to the next Across or Down clue by pressing the Return key.</li><li>You can see if you have any mistakes if validation is enabled in settings. &nbsp;Any wrong letters in the grid at that time will turn red; correct letters green.</li><li>Spaces and hyphens are not included in multiword answers. \u201cjack-of-all-trades\u201d would be entered as JACKOFALLTRADES.</li><li>Filled spaces are blanks and cannot be played.</li></ol><p><br></p><p><span style=\"font-size: 24px;\">Mobile Instructions</span><br></p><div><br></div><div>Crossword is best experienced in Portrait mode on mobile phones.</div><div><br></div><div><span style=\"font-size: 24px;\">Puzzle Functions</span></div><div><br></div><div><span style=\"font-weight: 700;\">Question Mark Icon</span>&nbsp;- Displays the instructions on how to play the puzzle and use the puzzle application.</div><div><br></div><div><span style=\"font-weight: 700;\">Information Sign Icon</span>&nbsp;- Displays information about the puzzle itself.</div><div><br></div><div><span style=\"font-weight: 700;\">Pencil Icon</span>&nbsp;- This feature mimics playing printed puzzles using a pencil. &nbsp;When activated, you\u2019re playing the puzzle with a virtual pencil and all your entries display in a different color so you may differentiate between your guesses and actual answers. &nbsp;You can change this to an actual answer by selecting the cell with the pencil entry, and clicking/tapping on the pencil tool to turn this feature off.</div><div><br></div><div><span style=\"font-weight: 700;\">Lightbulb Icon</span>&nbsp;- If you don\u2019t know the answer, you can ask the system to provide you the answer by square, the word, or reveal the entire puzzle.</div><div><br></div><div><span style=\"font-weight: 700;\">Thumbs-Up Icon</span>&nbsp;- If you\u2019ve entered what you feel is the solution in a particular square or wish to validate everything you\u2019ve currently entered into the puzzle, you can validate your entries using this feature by square, by word, or reveal the solution of the entire puzzle.</div><div><br></div><div><span style=\"font-weight: 700;\">Settings Icon</span>&nbsp;- Access Crossword specific settings detailed below:</div><div><br></div><ul><li>After changing directions with arrow keys (you can only select on option)</li><ul><li>Stay within the same square: Keeps the current square you are in active, but changes directions in the puzzle.</li><li>Move in the direction of the arrow: Moves to the next available square in the direction you choose.</li></ul><li>Pressing the spacebar should (you can only select on option)</li><ul><li>Clear the current square and move forward: Your entry is removed and you move forward to the next square in the direction you are playing</li><li>Toggle between Across and Down: Changes direction in the puzzle.</li></ul><li>Within a word</li><ul><li>Skip over filled squares: As you are entering letters in the puzzle, any square with a letter in it will be skipped as you enter letters.</li><li>Even pencilled-in Squares: As you are entering letters in the puzzle, if you have a letter that is pencilled in, you will type over your entry.</li></ul><li>At the end of the word (you can only select on option)</li><ul><li>Jump back to first blank word (if any): When you complete a word, the cursor will jump to the next available word regardless of the direction you are playing.</li><li>Jump back to the next clue (if not jumping back): When you complete a word, the cursor will jump to the next available word in the direction you are playing.</li></ul><li>Interactions</li><ul><li>Play sound when solved (off by default): When you successfully complete the puzzle, a sound will play.</li><li>Check guess when entered (on by default): As you work through the puzzle, the system will give you feedback if the solution is correct or incorrect.</li><li>Show timer (on by default): Allows you to time how quickly you solve the puzzle. &nbsp;As you play, use the play/pause button to start/stop the time. &nbsp;&nbsp;</li></ul></ul><p><span style=\"font-weight: 700;\">Calendar Icon</span>&nbsp;- If you\u2019d like to play puzzles published in the past, simply choose the date you wish using this feature.<br></p>",
+        "productCode": "CPG270",
+        "publicationDate": "03/12/2020",
+        "puzzleBand": "xwrddailycom",
+        "solutionDescriptionPrimary": "",
+        "sponsorAds": "N",
+        "title": "Daily Commuter Crossword"
+    }
+}
