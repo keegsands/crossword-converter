@@ -2,7 +2,7 @@
   "name": "crossword-converter",
   "version": "0.1.0",
   "description": "A simple Node application for converting a JSON formatted crossword puzzle into a different format.",
-  "main": "crossword-converter.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
